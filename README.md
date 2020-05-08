@@ -1,5 +1,7 @@
 # Rcellrange
 
+It converts cell specification and X/Y position to each other in Excel and Google spreadsheet.
+
 ## Installation
 
 Add this line to your application's Gemfile:
