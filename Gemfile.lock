@@ -31,11 +31,11 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bundler (~> 2.1.2)
+  bundler (>= 2.2.33)
   pry (~> 0.12)
   rake (~> 12.3.3)
   rcellrange!
   rspec (~> 3.0)
 
 BUNDLED WITH
-   2.1.2
+   2.2.33
